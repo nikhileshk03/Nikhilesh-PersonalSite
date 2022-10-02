@@ -1,0 +1,100 @@
+                                                   /*TAG STYLES*/
+body{
+    margin : 0;
+    text-align: center;
+    font-family: 'Merriweather',sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Kaushan Script',sans-serif;
+    margin:50px auto 0 auto;
+    color: #66BFBF;
+    line-height:2;
+}
+h2{
+    font-family:'Comfortaa', sans-serif ;
+    font-size: 1.25rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family:'Rubik Dirt', sans-serif;
+    color: #11999E;
+}
+p{
+    font-family:'Zilla Slab',sans-serif;
+    line-height:2;
+}
+a{
+    color: #11999E;
+    margin:10px;
+    text-decoration:none;
+}
+a:hover{
+    color:#00FFD1;
+}
+hr{
+    border:dotted 6px #EAF6F6;
+    border-top:none;
+    width:5%;
+    margin:100px auto;
+}
+                                                        /*CLASS STYLES*/ 
+.top-container{
+    background-color:#E4F9F5;
+    padding-top:100px ;
+    position:relative;
+}
+.middle-container{
+    padding: 100px 0;
+}
+.bottom-container{
+    margin-top:50px;
+    padding:50px 0 20px;
+    background-color:#66BFBF;
+    margin-block-end:0;
+}
+.top-cloud{
+    position:absolute;
+    top: 50px;
+    right:300px;
+}
+.bottom-cloud{
+    position: absolute;
+}
+.skill-row{
+    width: 50%;
+    text-align: left;
+    margin:100px auto 100px auto;
+} 
+.skill-1{
+    float:left;
+    width: 25%;
+    margin-right:30px;
+}
+#intro{
+    width:30%;
+    margin:auto;
+}
+.blah{
+    width:50%;
+    margin:40px auto 60px;
+}
+.btn{
+    color:#409999;
+    text-decoration:none;
+}
+button{
+    background-color: #E4F9F5;
+    border: 1;
+    border-color:#66BFBF;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#copyright{
+    color:#FFFFFF;
+}
